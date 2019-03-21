@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>api-budget-service</name>
+    </assembly>
+    <members>
+        <member name="M:api_budget_service.Controllers.BudgetsController.CalculateBudget(api_budget_service.Models.BudgetsRequest)">
+            <summary>
+            Calculates total budget from a start date to n-number of days.
+            </summary>
+            <returns>Total budget.</returns>
+            <param name="request">Any valid date format and an integer</param>
+            <response code="200">Returns total budget</response>
+            <response code="400">If request is null or invalid</response>
+            <response code="500">Server error</response>
+        </member>
+    </members>
+</doc>

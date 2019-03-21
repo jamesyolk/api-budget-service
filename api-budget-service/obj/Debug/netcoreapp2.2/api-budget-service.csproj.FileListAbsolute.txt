@@ -1,0 +1,15 @@
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/bin/Debug/netcoreapp2.2/api-budget-service.deps.json
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/bin/Debug/netcoreapp2.2/api-budget-service.runtimeconfig.json
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/bin/Debug/netcoreapp2.2/api-budget-service.runtimeconfig.dev.json
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/bin/Debug/netcoreapp2.2/api-budget-service.dll
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/bin/Debug/netcoreapp2.2/api-budget-service.pdb
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/bin/Debug/netcoreapp2.2/api-budget-service.xml
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/obj/Debug/netcoreapp2.2/api-budget-service.csproj.CoreCompileInputs.cache
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/obj/Debug/netcoreapp2.2/api-budget-service.RazorAssemblyInfo.cache
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/obj/Debug/netcoreapp2.2/api-budget-service.RazorAssemblyInfo.cs
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/obj/Debug/netcoreapp2.2/api-budget-service.AssemblyInfoInputs.cache
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/obj/Debug/netcoreapp2.2/api-budget-service.AssemblyInfo.cs
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/obj/Debug/netcoreapp2.2/api-budget-service.RazorTargetAssemblyInfo.cache
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/obj/Debug/netcoreapp2.2/api-budget-service.dll
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/obj/Debug/netcoreapp2.2/api-budget-service.xml
+/Users/james/Box/Projects/asp/api-budget-service/api-budget-service/obj/Debug/netcoreapp2.2/api-budget-service.pdb
