@@ -26,6 +26,7 @@ curl -X POST \
     "budget": 2.5
 }
 
+## Web Test
 Test out this endpoint by going to https://api-budget-service.azurewebsites.net/index.html
 
 - Expand the endpoint and click "Try it out" on upper right side
