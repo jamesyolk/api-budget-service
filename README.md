@@ -30,5 +30,5 @@ curl -X POST \
 Test out this endpoint by going to https://api-budget-service.azurewebsites.net/index.html
 
 - Expand the endpoint and click "Try it out" on upper right side
-- Modify request body, and "1" for version
+- Modify request body, and enter "1" for version
 - Click the blue "Execute" below to send the request
