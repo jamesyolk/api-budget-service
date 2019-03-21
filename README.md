@@ -1,4 +1,5 @@
 # api-budget-service
+This API is designed for Currnecy.
 
 ## POST: /api/v1/budget
 
